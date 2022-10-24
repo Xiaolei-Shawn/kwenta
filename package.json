@@ -45,7 +45,7 @@
 		"cors": "^2.8.5",
 		"date-fns": "2.21.3",
 		"date-fns-tz": "1.1.4",
-		"ethcall": "4.7.2",
+		"ethcall": "4.8.6",
 		"ethereum-block-by-date": "^1.4.5",
 		"ethers": "5.7.0",
 		"graphql-request": "3.4.0",
